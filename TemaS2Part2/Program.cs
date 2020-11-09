@@ -12,6 +12,7 @@ namespace TemaS2Part2
         static void Main(string[] args)
         {
             Exercise1();
+
             Exercise2();
             Exercise3();
             Exercise4();
@@ -277,6 +278,7 @@ namespace TemaS2Part2
             
             
             if (h < g)
+
             {
                 Console.WriteLine("Buna dimineata!");
             }

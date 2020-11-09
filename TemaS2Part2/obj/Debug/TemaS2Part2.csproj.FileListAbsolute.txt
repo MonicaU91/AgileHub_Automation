@@ -1,0 +1,7 @@
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\TemaS2Part2\bin\Debug\TemaS2Part2.exe.config
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\TemaS2Part2\bin\Debug\TemaS2Part2.exe
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\TemaS2Part2\bin\Debug\TemaS2Part2.pdb
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\TemaS2Part2\obj\Debug\TemaS2Part2.csprojAssemblyReference.cache
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\TemaS2Part2\obj\Debug\TemaS2Part2.csproj.CoreCompileInputs.cache
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\TemaS2Part2\obj\Debug\TemaS2Part2.exe
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\TemaS2Part2\obj\Debug\TemaS2Part2.pdb

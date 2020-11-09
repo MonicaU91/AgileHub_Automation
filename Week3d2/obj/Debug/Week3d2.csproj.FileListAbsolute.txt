@@ -1,0 +1,7 @@
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\Week3d2\bin\Debug\Week3d2.exe.config
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\Week3d2\bin\Debug\Week3d2.exe
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\Week3d2\bin\Debug\Week3d2.pdb
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\Week3d2\obj\Debug\Week3d2.csprojAssemblyReference.cache
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\Week3d2\obj\Debug\Week3d2.csproj.CoreCompileInputs.cache
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\Week3d2\obj\Debug\Week3d2.exe
+C:\Users\ursac\Documents\GitHub\AgileHub_Automation\Week3d2\obj\Debug\Week3d2.pdb
